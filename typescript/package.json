@@ -29,7 +29,7 @@
   "devDependencies": {
     "@types/diff": "^4.0.2",
     "@types/node": "^13.11.1",
-    "diff": "^4.0.2",
+    "diff": "^8.0.3",
     "neocolor": "^2.1.1",
     "tesuto": "^2.1.1",
     "typescript": "^3.8.3"
